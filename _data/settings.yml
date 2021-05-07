@@ -2,8 +2,8 @@
 # Site Settings
 title: The Mouse Team
 logo: '/images/logo.png'
-author: Jason Collins
-description: Clancy is a elegant portfolio theme for Jekyll.
+author: Konstantinos Barmpas
+description: The Mouse Team.
 
 
 #-------------------------------
@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about/'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Contact'
       url: '/contact/'
     - title: 'Elements'
