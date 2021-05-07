@@ -2,7 +2,7 @@
 # Site Settings
 title: The Mouse Team
 logo: '/images/logo.png'
-author: Konstantinos Barmpas
+author: Unknown
 description: The Mouse Team.
 
 
@@ -20,6 +20,8 @@ menu__settings:
       url: '/contact/'
     - title: 'Elements'
       url: '/elements/'
+    - title: 'Mouse Originals'
+      url: '/originals/'
 
 
 #-------------------------------
