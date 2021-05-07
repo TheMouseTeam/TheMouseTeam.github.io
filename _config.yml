@@ -21,9 +21,9 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-  #- scope:
-      #path: '_posts'
-    #values:
+  - scope:
+      path: '_posts'
+    values:
       $permalink: /blog/:slug
 
 include:
