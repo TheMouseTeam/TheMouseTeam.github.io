@@ -3,7 +3,7 @@ layout: post
 title:  Football Quzi
 date:   2019-07-01 09:00:00 +0000
 image:  '/images/football.jpg'
-tags:   [client, footballquiz]
+tags:   [Client, FootballQuiz]
 ---
 Football Quiz app about live football games.
 
