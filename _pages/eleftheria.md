@@ -17,7 +17,7 @@ Eleftheria is the Greek word Ελευθερία for freedom. Our freedom from th
 
 Data provided by: [https://data.gov.gr](https://data.gov.gr) with the OpenResource licence.
 
-![Workflow]({{site.baseurl}}/images/eleftheria_app.jpg)
+![Workflow]({{site.baseurl}}/images/google.jpg)
 *Download [Eleftheria App](https://play.google.com/store/apps/details?id=com.themouseteam.eleftheria) on Google Play*
 
 ***
