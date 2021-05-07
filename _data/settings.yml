@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Clancy
+title: The Mouse Team
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Jason Collins
+author: Unknown
 description: Clancy is a elegant portfolio theme for Jekyll.
 
 
@@ -34,7 +34,7 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
-    - image: /images/gallery-01.jpg
+    - image: /images/hara.jpg
       title: Samantha Gades
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 
