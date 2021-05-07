@@ -35,35 +35,35 @@ portfolio:
   portfolio__gallery:
     - image: /images/eleftheria.jpg
       title: Eleftheria App
-      description: Find out more: <a href="/eleftheria/">here</a>
+      description: Find out more <a href="/eleftheria/">here</a>
 
     - image: /images/hara.jpg
       title: Hara App
-      description: Find out more: <a href="/hara/">here</a>
+      description: Find out more <a href="/hara/">here</a>
 
     - image: /images/roadai.jpg
       title: RoadAI
-      description: Find out more: <a href="/roadai/">here</a>
+      description: Find out more <a href="/roadai/">here</a>
 
     - image: /images/upliftme.jpg
       title: UpliftMe
-      description: Find out more: <a href="/upliftme/">here</a>
+      description: Find out more <a href="/upliftme/">here</a>
 
     - image: /images/hashme.jpg
       title: HashMe
-      description: Find out more: <a href="/hashme/">here</a>
+      description: Find out more <a href="/hashme/">here</a>
 
     - image: /images/bugdetme.jpg
       title: BudgetMe
-      description: Find out more: <a href="/budgetme/">here</a>
+      description: Find out more <a href="/budgetme/">here</a>
 
     - image: /images/noteme.jpg
       title: NoteMe
-      description: Find out more: <a href="/noteme/">here</a>
+      description: Find out more <a href="/noteme/">here</a>
 
     - image: /images/schoolpool.jpg
       title: SchoolPool
-      description: Find out more: <a href="/schoolpool/">here</a>
+      description: Find out more <a href="/schoolpool/">here</a>
 
 #-------------------------------
 # Footer Settings
