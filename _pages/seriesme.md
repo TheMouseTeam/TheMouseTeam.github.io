@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /seriesme/
 image: '/images/01.jpg'
 ---
 
