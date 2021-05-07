@@ -14,7 +14,7 @@ With Hara you can:
 
 #### Introducing Hara App
 
-<p><iframe src="https://www.youtube.com/embed/LU8e0OLLNIQ" frameborder="0" allowfullscreen></iframe></p
+<p><iframe src="https://www.youtube.com/watch?v=LU8e0OLLNIQ" frameborder="0" allowfullscreen></iframe></p
 
 ***
 
@@ -23,6 +23,7 @@ Hara is the Greek word Χαρά for happiness. The happiness to become a volunte
 
 ![Workflow]({{site.baseurl}}/images/google.jpg)
 *Download [Hara App](https://play.google.com/store/apps/details?id=com.themouseteam.hara) on Google Play*
+
 
 
 ***
