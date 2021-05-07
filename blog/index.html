@@ -1,39 +1,25 @@
----
-layout: default
-title: Blog
-description: 'Clancy blog features productivity, tips, inspiration. Find out how to set up a successful blog or how to make yours even
-better!'
----
-
-<!-- begin hero -->
-<section class="hero">
-  <div class="container">
-    <div class="row">
-      <div class="col col-10 col-d-12">
-        <div class="hero__inner">
-          {% if page.title %}
-            <h1 class="hero__title">{{ page.title }}</h1>
-          {% endif %}
-          {% if page.description %}
-            <p class="hero__description">{{ page.description }}</p>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end hero -->
-
-<div class="container">
-  <div class="row animate">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
-        {% include article.html %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
-
-{% include pagination.html %}
-
-{% include section-subscribe.html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.3">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default title: Our Story description: ‘Find out about our amazing journey so far!’ ---</span></p>
+<p class="p1"><span class="s1">{% if page.title %}</span></p>
+<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p1"><span class="s1">{% endif %} {% if page.description %}</span></p>
+<p class="p3"><span class="s1">{{ page.description }}</span></p>
+<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% if site.posts.size &gt; 0 %} {% for post in paginator.posts %} {% include article.html %} {% endfor %} {% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include pagination.html %} {% include section-subscribe.html %}</span></p>
+</body>
+</html>
