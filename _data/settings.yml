@@ -3,7 +3,7 @@
 title: The Mouse Team
 logo: #'/images/logo.png'
 author: Unknown
-description: Clancy is a elegant portfolio theme for Jekyll.
+description: We are the Mouse Team.
 
 
 #-------------------------------
@@ -20,7 +20,6 @@ menu__settings:
       url: '/contact/'
     - title: 'Elements'
       url: '/elements/'
-
 
 #-------------------------------
 # Hero Settings
