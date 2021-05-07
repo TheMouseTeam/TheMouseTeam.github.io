@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: The Mouse Team
-logo: '/images/logo.png'
+logo: #'/images/logo.png'
 author: Unknown
 description: Clancy is a elegant portfolio theme for Jekyll.
 
@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about/'
+    - title: 'Our Story'
+      url: '/story/'
     - title: 'Contact'
       url: '/contact/'
     - title: 'Elements'
