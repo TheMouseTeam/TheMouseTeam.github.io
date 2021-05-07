@@ -16,6 +16,7 @@ With Hara you can:
 
 <p><iframe src="https://www.youtube.com/watch?v=LU8e0OLLNIQ" frameborder="0" allowfullscreen></iframe></p
 
+***
 
 ### Our Philosophy
 Hara is the Greek word Χαρά for happiness. The happiness to become a volunteer, to bring joy to others and help others. The chance to do more, to give more, to love more, to live more. Even in uncertain times, there are no limits to the compassion and solidarity. It’s what makes us humans after all. Volunteerism is a form of love rooted in the idea that a better future is always possible. This is our philosophy and it is reflected on our logo, the Bluebird: a symbol of happiness in many cultures around the world.
