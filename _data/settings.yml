@@ -34,36 +34,36 @@ portfolio:
   portfolio__title: Mouse Originals
   portfolio__gallery:
     - image: /images/eleftheria.jpg
-      title: Samantha Gades
-      description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
+      title: Eleftheria App
+      description: Find out more: <a href="/eleftheria/">here</a>
 
     - image: /images/hara.jpg
-      title: Paula Vermeulen
-      description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
+      title: Hara App
+      description: Find out more: <a href="/hara/">here</a>
 
     - image: /images/roadai.jpg
-      title: Bench Accounting
-      description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
+      title: RoadAI
+      description: Find out more: <a href="/roadai/">here</a>
 
     - image: /images/upliftme.jpg
-      title: Nord Wood
-      description: White ceramic mug <a href="https://unsplash.com/photos/nDd3dIkkOLo">Unsplash</a>
+      title: UpliftMe
+      description: Find out more: <a href="/upliftme/">here</a>
 
     - image: /images/hashme.jpg
-      title: Luca Bravo
-      description: White ribs in a facade against a white sky <a href="https://unsplash.com/photos/alS7ewQ41M8">Unsplash</a>
+      title: HashMe
+      description: Find out more: <a href="/hashme/">here</a>
 
     - image: /images/bugdetme.jpg
-      title: Isaac Benhesed
-      description: Minimalist black coffee <a href="https://unsplash.com/photos/onLbXleIkds">Unsplash</a>
+      title: BudgetMe
+      description: Find out more: <a href="/budgetme/">here</a>
 
     - image: /images/noteme.jpg
-      title: Water Journal
-      description: Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href="https://unsplash.com/photos/EbuaKnSm8Zw">Unsplash</a>
+      title: NoteMe
+      description: Find out more: <a href="/noteme/">here</a>
 
     - image: /images/schoolpool.jpg
-      title: Luca Bravo
-      description: Worms eye view of city buildings <a href="https://unsplash.com/photos/a6x7YPiNxwI">Unsplash</a>
+      title: SchoolPool
+      description: Find out more: <a href="/schoolpool/">here</a>
 
 #-------------------------------
 # Footer Settings
