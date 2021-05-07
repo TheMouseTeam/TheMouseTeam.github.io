@@ -25,9 +25,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco.
-  hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
-
+  hero__title: Changing The World, One App At A Time.
+  hero__description: (Not just another software team). We are a team of Android developers. We create our own original apps, used and loved by thousands all around the world. We also serve our clients and bring their app ideas to life. We are the Mouse Team !!
 
 #-------------------------------
 # Portfolio Settings
