@@ -22,9 +22,7 @@ With Hara you can:
 Hara is the Greek word Χαρά for happiness. The happiness to become a volunteer, to bring joy to others and help others. The chance to do more, to give more, to love more, to live more. Even in uncertain times, there are no limits to the compassion and solidarity. It’s what makes us humans after all. Volunteerism is a form of love rooted in the idea that a better future is always possible. This is our philosophy and it is reflected on our logo, the Bluebird: a symbol of happiness in many cultures around the world.
 
 ![Workflow]({{site.baseurl}}/images/google.jpg)
-*Download [Hara App](https://play.google.com/store/apps/details?id=com.barmpas.hara) on Google Play*
-
-### Mentions
+*Download [Eleftheria App](https://play.google.com/store/apps/details?id=com.themouseteam.hara) on Google Play*
 
 
 
