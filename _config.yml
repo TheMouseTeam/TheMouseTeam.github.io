@@ -21,10 +21,10 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
- # - scope:
-      #path: '_posts'
-    #values:
-      #permalink: /blog/:slug
+  - scope:
+      path: '_posts'
+    values:
+      permalink: /blog/:slug
 
 include:
   - _pages
