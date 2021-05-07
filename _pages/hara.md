@@ -12,7 +12,7 @@ With Hara you can:
 2. DONATE BLOOD: Give 30' of your time and become a blood donor. With Hara, you can find out about the blood donation events in the hospitals nearby
 3. ORGANISE CHARITY EVENTS: Learn about charity events in your town organised by our partners / organisations. Contact our partners and organise an event in your area on their behalf and with their support
 
-### Introducing Hara App
+#### Introducing Hara App
 
 <p><iframe src="https://www.youtube.com/watch?v=LU8e0OLLNIQ" frameborder="0" allowfullscreen></iframe></p
 
