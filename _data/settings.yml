@@ -35,41 +35,37 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
-    - image: <a href="/seriesme/">/images/gallery-01.jpg</a>
+    - image:/images/eleftheria.png
       title: SeriesMe
       description: <a href="/seriesme/">SeriesMe</a>
 
-    - image: /images/gallery-02.jpg
+    - image: /images/hara.png
       title: Paula Vermeulen
       description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
 
-    - image: /images/gallery-03.jpg
+    - image: /images/roadai.png
       title: Bench Accounting
       description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
 
-    - image: /images/gallery-04.jpg
+    - image: /images/upliftme.png
       title: Nord Wood
       description: White ceramic mug <a href="https://unsplash.com/photos/nDd3dIkkOLo">Unsplash</a>
 
-    - image: /images/gallery-05.jpg
+    - image: /images/hashme.png
       title: Luca Bravo
       description: White ribs in a facade against a white sky <a href="https://unsplash.com/photos/alS7ewQ41M8">Unsplash</a>
 
-    - image: /images/gallery-06.jpg
+    - image: /images/budgetme.png
       title: Isaac Benhesed
       description: Minimalist black coffee <a href="https://unsplash.com/photos/onLbXleIkds">Unsplash</a>
 
-    - image: /images/gallery-07.jpg
+    - image: /images/noteme.png
       title: Water Journal
       description: Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href="https://unsplash.com/photos/EbuaKnSm8Zw">Unsplash</a>
 
-    - image: /images/gallery-08.jpg
+    - image: /images/schoolpool.png
       title: Luca Bravo
       description: Worms eye view of city buildings <a href="https://unsplash.com/photos/a6x7YPiNxwI">Unsplash</a>
-
-    - image: /images/gallery-09.jpg
-      title: Books and Laptop
-      description: Silver laptop computer with two books on the top <a href="https://unsplash.com/photos/fFIAKABImf4">Unsplash</a>
 
 #-------------------------------
 # Footer Settings
