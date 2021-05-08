@@ -1,0 +1,8 @@
+--- layout: default title: Our Story description: 'Clancy blog features productivity, tips, inspiration. Find out how to set up a successful blog or how to make yours even better!' ---
+{% if page.title %}
+{{ page.title }}
+{% endif %} {% if page.description %}
+{{ page.description }}
+{% endif %} 
+{% if site.posts.size > 0 %} {% for post in paginator.posts %} {% include article.html %} {% endfor %} {% endif %} 
+{% include pagination.html %} {% include section-subscribe.html %}
