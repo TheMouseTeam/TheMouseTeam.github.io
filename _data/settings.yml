@@ -15,7 +15,7 @@ menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'Our Story'
-      url: '/story/'
+      url: '/blog/'
     - title: 'Contact'
       url: '/contact/'
 
