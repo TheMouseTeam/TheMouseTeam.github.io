@@ -6,7 +6,8 @@ image:  '/images/pitch_1.jpg'
 tags:   [Pitch, Deck, TheMouseTeam, Mouse Originals]
 ---
 
-
+The Mouse Team has successfully delivered its first Pitch Deck. 
+#This is just the beginning
 
 ![Minimalism]({{site.baseurl}}/images/pitch_1.jpg)
 ![Minimalism]({{site.baseurl}}/images/pitch_2.jpg)
