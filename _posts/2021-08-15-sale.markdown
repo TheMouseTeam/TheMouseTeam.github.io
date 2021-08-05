@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Successful Sale
+date:   2021-08-15 09:00:00 +0000
+image:  '/images/champa.jpg'
+tags:   [Sale, TheMouseTeam, Mouse Originals]
+---
+
+We are extremelly proud and happy to announce the successul sale of our domain: 
+>themouseteam.com
+
+This high traffic domain has served our company greatly from the very beginning. Today marks also the last day of our active Gigs on Fiverr. Our original apps will remain available on Google Play. 
+
+We would like to thank all our customers as well as our app users for their support all these years.
+
+Our journey and our story will be archived to:
+>themouseteam.github.io
+
+We remain committed to the Open Source Community and we hope to publish the code of our original apps in the  near future.
+
+***
