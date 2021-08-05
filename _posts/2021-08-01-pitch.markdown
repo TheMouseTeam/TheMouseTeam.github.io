@@ -1,0 +1,27 @@
+---
+layout: post
+title: Pitch Deck
+date:   2021-08-01 09:00:00 +0000
+image:  '/images/pitch_1.jpg'
+tags:   [Pitch, Deck, TheMouseTeam, Mouse Originals]
+---
+
+
+
+![Minimalism]({{site.baseurl}}/images/pitch_1.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_2.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_3.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_4.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_5.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_6.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_7.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_8.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_9.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_10.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_11.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_12.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_13.jpg)
+![Minimalism]({{site.baseurl}}/images/pitch_14.jpg)
+*Pitch created by The Mouse Team and designed on beautiful.ai*
+
+***
